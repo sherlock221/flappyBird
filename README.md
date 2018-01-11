@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# flappyBird
+使用cocos creator  开发的  flappyBird  
